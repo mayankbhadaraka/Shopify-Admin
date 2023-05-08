@@ -1,0 +1,33 @@
+h1 {
+  /* text-align: center; */
+  font-size: 37px;
+}
+#Welcome {
+  min-height: 92vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: -webkit-fill-available;
+}
+img {
+  height: 45px;
+}
+.info {
+  min-height: 92vh;
+  width: 84%;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.sidebar {
+  display: flex;
+}
+.container {
+  min-height: 90vh;
+}
+.Polaris-Navigation {
+  min-height: 91vh !important;
+  width: 16% !important;
+  min-width: unset !important;
+}
